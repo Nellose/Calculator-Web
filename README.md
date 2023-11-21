@@ -28,4 +28,4 @@ Feel free to explore and use this calculator for your daily computation needs!
 
 # Test
 
-![screenshots](https://github.com/Nellose/Calculator-Web/OTHER/screenshots.jpg)
+![screenshots](https://github.com/Nellose/Calculator-Web/blob/main/OTHER/screenshots.jpg)
